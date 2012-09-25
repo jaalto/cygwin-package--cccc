@@ -1,7 +1,7 @@
 cccc
 ------------------------------------------
 
-C and C++ Code Counter software metrics tool
+C and C++ Code Counter, a software metrics tool
 
 Analyse and report measurements of source code in C, C++, and
 Java. This tool was developed to augment programmers'
