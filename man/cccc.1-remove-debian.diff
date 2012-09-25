@@ -1,0 +1,14 @@
+ man/cccc.1 |    3 +--
+ 1 files changed, 1 insertions(+), 2 deletions(-)
+
+diff --git a/man/cccc.1 b/man/cccc.1
+index ee8bab4..697e42d 100644
+--- a/man/cccc.1
++++ b/man/cccc.1
+@@ -55,5 +55,4 @@ Control debug output content (refer to ccccmain.cc for mask values).
+ .SH AUTHOR
+ CCCC was written by Tim Littlefair <tim_littlefair@hotmail.com>.
+ .PP
+-This manual page was written by Colin Watson <cjwatson@debian.org>
+-for the Debian system (but may be used by others).
++This manual page was written by Colin Watson <cjwatson@debian.org>.
