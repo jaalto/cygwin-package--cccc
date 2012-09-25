@@ -1,0 +1,7 @@
+sdesc: "C and C++ Code Counter software metrics tool"
+ldesc: "Analyse and report measurements of source code in C, C++, and
+Java. This tool was developed to augment programmers' instinctive
+application of numeric rules of thumb about what constitutes high or
+low quality products with an automated analysis tool."
+category: Devel
+requires: libgcc1 libstdc++6
